@@ -1,3 +1,4 @@
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/naikmayanka04/Restaurant-Location-Analysis)
 # Restaurant Location Analysis (ML)
 
 A geographic analysis of 9,551 restaurants combining exploratory data
@@ -126,7 +127,3 @@ columns including `Latitude`, `Longitude`, `City`, `Locality`,
    `/reports` folder (or copy the HTML file to `docs/index.html` and point
    Pages at `/docs`).
 3. GitHub will publish it at `https://<username>.github.io/<repo>/`.
-
-## License
-
-MIT — see [LICENSE](LICENSE).
